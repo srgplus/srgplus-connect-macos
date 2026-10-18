@@ -6,6 +6,14 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202610180837)</title>
+      <pubDate>Sun, 18 Oct 2026 08:40:13 +0000</pubDate>
+      <sparkle:version>202610180837</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="e/q6LheVFFokp8LwMvY5121BCjjfgP23eEat+K97j+wZPm0U0VjJS0FBMUTTiGzuRD58S6zYarARFMPGulwOAg==" length="6576625" />
+    </item>
+    <item>
       <title>0.1.3 (202610160835)</title>
       <pubDate>Fri, 16 Oct 2026 08:36:44 +0000</pubDate>
       <sparkle:version>202610160835</sparkle:version>
