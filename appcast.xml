@@ -11,6 +11,18 @@
       <sparkle:version>202611162348</sparkle:version>
       <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+What's new since the last Mac download (0.1.4, November 5):
+
+- Banks: connect your business bank accounts under Accounts, each with its own logo and colours, and check or remove them. Connecting, reconnecting or removing a bank asks for a code from your authenticator app first.
+- Stripe: sign in to several Stripe accounts on the Stripe tile and see each one.
+- Accounts: Social Accounts and Brands (connect an account, add a brand), Google Business Profile locations, and Partners under Users.
+- Connectors: a "Shared with you" section and a table view. A member's Tools are listed by connector; click one to see its tools.
+- Routines: pick SRG+ CRM events as a trigger in New Routine and Edit.
+- History: Owners and Admins can clear the red mark on a finished run.
+- Agents: an agent's page shows who can write, the models it can use and its highest reasoning level.
+- Privacy Policy links in the app.
+]]></description>
       <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="tSeZR39nU1eriJQrEDa+iJd5NFIAExgrJ/5V/eaCxILWSuMxaP0u9f5ugnyLj037XiT3uQaVEJdFcfCdy/DCDg==" length="8316293" />
     </item>
     <item>
