@@ -6,6 +6,21 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202611182132)</title>
+      <pubDate>Wed, 18 Nov 2026 21:36:03 +0000</pubDate>
+      <sparkle:version>202611182132</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Updates install by themselves.** The app checks every hour and installs a new version when you quit it. Opened from the disk image or Downloads, it first offers to move itself into Applications, where updates can reach it.
+- **Facebook Messenger, WhatsApp Business and Telegram** connect next to Instagram.
+- Remove a social account from its page or its row menu.
+- Real network logos instead of letters, and Settings at the bottom of the sidebar.
+- The Subscription screen shows your plan.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="lg5WBpgWGpsrSjOieZLJt89Yhz0dKbHm+k05wvGAjIpsNxorVqU2GVwDpOrr/ZVDaAo/tNJ4pDN9tTSE0BH8BA==" length="9622438" />
+    </item>
+    <item>
       <title>0.1.4 (202611162348)</title>
       <pubDate>Mon, 16 Nov 2026 23:52:35 +0000</pubDate>
       <sparkle:version>202611162348</sparkle:version>
