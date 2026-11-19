@@ -6,6 +6,20 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202611190732)</title>
+      <pubDate>Thu, 19 Nov 2026 07:35:14 +0000</pubDate>
+      <sparkle:version>202611190732</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- Org Board: every post's panel now shows three blocks, each with «+»: Hat, Valuable final product and Statistics.
+- Hat: attach a page from SRG+ (the hats of the agents on the post come first) or write a new one in your brand's Hats channel. An agent holding the post reads the same page before each run.
+- Add a statistic: what it counts, the period, the quota, by hand or from an app.
+- The post's product is changed right in the panel.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="7Xrka2B31AW+FoHK4Jh26HSaESCvXLqjE14yFAphya/ueY25PKZSUTV/SGwQHgLilinULFFvem+ahLRHQjuXDg==" length="11290792" />
+    </item>
+    <item>
       <title>0.1.4 (202611190527)</title>
       <pubDate>Thu, 19 Nov 2026 05:30:40 +0000</pubDate>
       <sparkle:version>202611190527</sparkle:version>
