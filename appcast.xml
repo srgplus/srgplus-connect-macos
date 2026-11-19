@@ -6,6 +6,23 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202611190110)</title>
+      <pubDate>Thu, 19 Nov 2026 01:20:01 +0000</pubDate>
+      <sparkle:version>202611190110</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+**Org Board**: how your company is run, in Connect.
+
+- Divisions, departments and posts, who holds each post and who gives orders to whom.
+- Put people and agents on posts (several can hold one), drag posts and people on the board.
+- Products and statistics on the cards; a statistic's own page to write this week's number.
+- Table and Full view, a PDF poster to print, and one branch in focus.
+- Versions: publish the board with a note, restore an earlier one.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="ZWwDeJJF0WTfebOpbdi9/YTWehfbnuy/foIRCr9ZpoyUq370E5V7bhUPWW8+xppblwCyfov9iERnkhprt/6YAw==" length="10756631" />
+    </item>
+    <item>
       <title>0.1.4 (202611182132)</title>
       <pubDate>Wed, 18 Nov 2026 21:36:03 +0000</pubDate>
       <sparkle:version>202611182132</sparkle:version>
