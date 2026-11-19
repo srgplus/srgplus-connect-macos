@@ -6,6 +6,18 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202611190527)</title>
+      <pubDate>Thu, 19 Nov 2026 05:30:40 +0000</pubDate>
+      <sparkle:version>202611190527</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **New Org Board**: pick a starting structure: Seven Divisions, Departments, People Only, Startup, Agency, Blank, or copy the structure of a board in another of your workspaces (without its people).
+- **Division colour**: on iPhone and iPad, pick any colour for a division from the system colour picker.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="fjjDQB6qS4MsCoYONQnKH7pomtpHNPfuWq0zliBNFl8FwNQD6baDFomXcefaBTtcCLW0PglQ2X6xyvbQYJpmCA==" length="11083528" />
+    </item>
+    <item>
       <title>0.1.4 (202611190411)</title>
       <pubDate>Thu, 19 Nov 2026 04:15:43 +0000</pubDate>
       <sparkle:version>202611190411</sparkle:version>
