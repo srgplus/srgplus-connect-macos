@@ -6,6 +6,18 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202611200535)</title>
+      <pubDate>Fri, 20 Nov 2026 05:37:49 +0000</pubDate>
+      <sparkle:version>202611200535</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Update at the top.** When a new version is ready, a blue Update button shows at the top right of the window. One click installs it and reopens the app; without a click it still installs when you quit.
+- «Answer DMs in SRG+ CRM» no longer shows as on for an account whose DMs are off.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="bV5OHdmL7iW0bDD0+/w5eu/kf+6ZFYr5epXn/UPXkaUBHpbkAiontupqZrbffqJss7hjtpU0ysFAh3IVfEJ2CA==" length="11344957" />
+    </item>
+    <item>
       <title>0.1.4 (202611192039)</title>
       <pubDate>Thu, 19 Nov 2026 20:45:44 +0000</pubDate>
       <sparkle:version>202611192039</sparkle:version>
