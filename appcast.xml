@@ -6,6 +6,18 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202611211002)</title>
+      <pubDate>Sat, 21 Nov 2026 10:07:47 +0000</pubDate>
+      <sparkle:version>202611211002</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Workspace pictures in the menu.** Every workspace in the workspace menu, and the open one at the top, shows its picture (or its initial when it has none).
+- **Owners and Admins change the workspace picture in Settings** › Workspace › Picture. It is kept in one place, here in SRG+ Connect, for the other SRG+ apps too.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="0IZjff8paIIThooElzNksCJPXNuTneVR4rWu7terWBLdhncJcoiy3jLeRgmH7qVhjFhQzdoULTZjNpIcjoB0Cw==" length="11444873" />
+    </item>
+    <item>
       <title>0.1.4 (202611200535)</title>
       <pubDate>Fri, 20 Nov 2026 05:37:49 +0000</pubDate>
       <sparkle:version>202611200535</sparkle:version>
