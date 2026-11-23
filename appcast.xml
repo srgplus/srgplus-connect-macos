@@ -6,6 +6,17 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202611230009)</title>
+      <pubDate>Mon, 23 Nov 2026 00:11:34 +0000</pubDate>
+      <sparkle:version>202611230009</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+Stripe for purchases: Connectors › Stripe · Purchases shows the Stripe accounts you connected, the latest purchases and what SRG+ CRM did with each. Connect Stripe, bring in earlier buyers, and see every event. Routines can now start on a Stripe purchase, refund, canceled subscription, failed payment or dispute.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="OIxI/znfaQXSwmjag1FZWgnHInoLnNX5vVU1d8D7+vb5m+cwx4PN9cVxeeh1BAX2dbJcZ3XgMqsO38O1dEF0DQ==" length="12007379" />
+    </item>
+    <item>
       <title>0.1.4 (202611211002)</title>
       <pubDate>Sat, 21 Nov 2026 10:07:47 +0000</pubDate>
       <sparkle:version>202611211002</sparkle:version>
