@@ -6,6 +6,19 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202611232325)</title>
+      <pubDate>Mon, 23 Nov 2026 23:35:41 +0000</pubDate>
+      <sparkle:version>202611232325</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+Shared workspaces: when a client shares an app with your studio as Admin, its workspace now appears in the workspace menu under «Shared by <client>». Open it to see its people and change the apps it shares.
+
+Admins can now do what the Owner does in People: make someone an Admin, make an Admin a Member again, and change or remove another Admin. The Owner's own row stays the Owner's.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="/vu39jMx7b8BoIZ0Ee3iZ8eX7dO/3ucOCTl7xiJRu2Bk7XbeCl7qr6K5fEX67x1Fz3WmYi6tYRinBP1x4DIYDw==" length="12043017" />
+    </item>
+    <item>
       <title>0.1.4 (202611230009)</title>
       <pubDate>Mon, 23 Nov 2026 00:11:34 +0000</pubDate>
       <sparkle:version>202611230009</sparkle:version>
