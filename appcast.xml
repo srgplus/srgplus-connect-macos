@@ -6,6 +6,20 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202611232336)</title>
+      <pubDate>Mon, 23 Nov 2026 23:43:28 +0000</pubDate>
+      <sparkle:version>202611232336</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Add a Brand:** search finds hubs by words in any order («creator serge»), right as you type, and every hub shows its picture.
+- **A new brand** shows its picture and its place in the list at once.
+- **Move an account to a brand:** tap the Brand on an account's page, right-click an account and choose Move to Brand, or use Add an Account on a brand's page.
+- **New accounts appear by themselves** a few seconds after you finish signing in in the browser, no need to switch workspaces.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="NwHpqybIPQmyH+yRXLvxmmjihkdEte68pKR/wx7i8n5OMmL2loxMQlwojVtLR06oKeuQEv7wEElsBV1IuM73CQ==" length="12146857" />
+    </item>
+    <item>
       <title>0.1.4 (202611232325)</title>
       <pubDate>Mon, 23 Nov 2026 23:35:41 +0000</pubDate>
       <sparkle:version>202611232325</sparkle:version>
