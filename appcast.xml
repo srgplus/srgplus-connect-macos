@@ -6,6 +6,19 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202611240653)</title>
+      <pubDate>Tue, 24 Nov 2026 06:58:07 +0000</pubDate>
+      <sparkle:version>202611240653</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+Add a connector is now a gallery of apps, like Claude's connectors: search, pick GitHub, Notion, Linear, Canva, Stripe and more, each with its maker's icon, and sign in with your own account. One tap adds the app and opens its sign-in page.
+
+GitHub works now: sign in once, then choose per agent what it may read (code, pull requests, issues, checks and their logs).
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="/PFCbCUqn9AIY4IJIGDhOinMlHpRoHlq4JEcHMYohJOSCFbWn/3cB92olrJz9Ixv/9uzLC8TWxjiUXgO8R/EAw==" length="12449110" />
+    </item>
+    <item>
       <title>0.1.4 (202611240144)</title>
       <pubDate>Tue, 24 Nov 2026 02:01:55 +0000</pubDate>
       <sparkle:version>202611240144</sparkle:version>
