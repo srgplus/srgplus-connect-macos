@@ -6,6 +6,19 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202611240144)</title>
+      <pubDate>Tue, 24 Nov 2026 02:01:55 +0000</pubDate>
+      <sparkle:version>202611240144</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+Shared workspaces: Settings › Subscription now shows the client's plan (no card details) with «Shared by <client>». A studio Admin can change the number of seats: Change shows the new price and the next invoice before Save. The card, invoices and Cancel stay the client's.
+
+In a shared workspace, Settings hides Keys and the picture stays the client's.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="m6DGcOQY8mu3A5U1XviuvxVbkpEAwnWazsC0UlYT/pNnc7febCjgCQd2zuqchOWDqKKZcUW1e1Rw7veBYA8tCA==" length="12357847" />
+    </item>
+    <item>
       <title>0.1.4 (202611232336)</title>
       <pubDate>Mon, 23 Nov 2026 23:43:28 +0000</pubDate>
       <sparkle:version>202611232336</sparkle:version>
