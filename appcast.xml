@@ -6,6 +6,21 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202611251705)</title>
+      <pubDate>Wed, 25 Nov 2026 17:10:31 +0000</pubDate>
+      <sparkle:version>202611251705</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Org Board statistics from your apps.** A statistic can take its number from SRG+ CRM or SRG+ Finance: pick what it counts, and Connect reads it every hour. Its page shows when it was read, a Read Now button and a chart of the last weeks.
+- **A statistic says where its number comes from.** «Connect reads it from SRG+ CRM every hour», or, until you pick what it counts, «Nothing is read yet».
+- **Routines on the Org Board.** A post's card shows the routines its agents run, each with its next and last run.
+- **Settings.** You and your workspace sit on top, with the same SRG+ Account and Workspace pages as the other SRG+ apps.
+- **Telegram for SRG+ Schedule.** Connect your Telegram channels («My channels»), and turn on Manage stories to post Stories from your own Telegram.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="Dzyh0G6vPXjX0cd5KmVZiwI8Uz5jRALO8Wc/fxJPL56b+Ng3PGTQscI01WfGqqxTTQ9OZaXiAcjxvDyAF18LCg==" length="13170869" />
+    </item>
+    <item>
       <title>0.1.4 (202611240653)</title>
       <pubDate>Tue, 24 Nov 2026 06:58:07 +0000</pubDate>
       <sparkle:version>202611240653</sparkle:version>
