@@ -6,6 +6,19 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202611262146)</title>
+      <pubDate>Thu, 26 Nov 2026 21:49:21 +0000</pubDate>
+      <sparkle:version>202611262146</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- Agents look as they do in Chat: an agent's face is drawn whole, with no grey circle behind it, in Routines, agent lists and pickers.
+- The small agent badge on agents' pictures is gone: the face says it is an agent.
+- The agent's page has an Online section (Mac and iPhone).
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="m1ipts0FFesR9jZIddJ0AQ637OHk5DvK/wHhDe2co4qohe7H6EI/bsY8TvnV0BdbV/YrxoZs7ShMEtImZCyhCw==" length="13309766" />
+    </item>
+    <item>
       <title>0.1.4 (202611251705)</title>
       <pubDate>Wed, 25 Nov 2026 17:10:31 +0000</pubDate>
       <sparkle:version>202611251705</sparkle:version>
