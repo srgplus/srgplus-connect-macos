@@ -6,6 +6,18 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202611270744)</title>
+      <pubDate>Fri, 27 Nov 2026 07:52:06 +0000</pubDate>
+      <sparkle:version>202611270744</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- AI Apps show each app's real logo: Claude, Claude Code, ChatGPT, Codex, Grok and the other apps Connect knows.
+- Connectors: All, Mine and Shared at the top of the list; what partners shared with you is grouped by their workspace.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="CGIslWfh/7OIU22uVArEf+a/emts0QigrloW/mV538t6QivtEiaHXGBa+Tjoy+m5L8NzYMgyR99J+nitr3AsCA==" length="13436419" />
+    </item>
+    <item>
       <title>0.1.4 (202611262146)</title>
       <pubDate>Thu, 26 Nov 2026 21:49:21 +0000</pubDate>
       <sparkle:version>202611262146</sparkle:version>
