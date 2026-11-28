@@ -6,6 +6,18 @@
     <description>Updates of SRG+ Connect for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.4 (202611280814)</title>
+      <pubDate>Sat, 28 Nov 2026 08:18:52 +0000</pubDate>
+      <sparkle:version>202611280814</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- Gmail, Google Calendar and Google Drive connect through Google's own servers, with several accounts on one tile.
+- Account rows and the account page show the account's picture without a coloured initials badge.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-connect-macos/releases/latest/download/SRG-Plus-Connect.dmg" type="application/octet-stream" sparkle:edSignature="5SyfrmypBsqtpX9Egg1jwiR6VV+vVGU/KmHpjWjY0UxurMSeqgR1+1W1SkGBjRzllCVr+I/k4Un5JzKmzEB0Bw==" length="13432192" />
+    </item>
+    <item>
       <title>0.1.4 (202611270744)</title>
       <pubDate>Fri, 27 Nov 2026 07:52:06 +0000</pubDate>
       <sparkle:version>202611270744</sparkle:version>
